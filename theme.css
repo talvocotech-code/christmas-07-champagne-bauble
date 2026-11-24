@@ -1,0 +1,11 @@
+/* 07 · Champagne Bauble — black & champagne gold, Italiana capitals, hairline-ruled minimal layout */
+:root{--bg:#030303;--ink:#f1e8d6;--ink-dim:rgba(241,232,214,.72);--accent:#d8b970;--accent-ink:#120d02;--panel:transparent;--panel-line:rgba(216,185,112,.4);--radius:0;
+ --f-display:'Italiana',Georgia,serif;--spark:#fff0c0,#d8b970,#ffffff;--bloom:rgba(255,226,150,.8);--tint-bg:linear-gradient(180deg,rgba(0,0,0,.6),rgba(0,0,0,.95));--tint-max:.95;--burst-x:.5;--burst-y:.62;--orn:var(--o-star)}
+.op-title{font-family:'Italiana',serif;text-transform:uppercase;letter-spacing:.1em;font-size:clamp(28px,8.6vw,40px);font-weight:400;line-height:1.18}
+.op-eyebrow{letter-spacing:.4em;font-size:10px}
+.panel{background:transparent;border:0;border-top:1px solid var(--panel-line);border-bottom:1px solid var(--panel-line);-webkit-backdrop-filter:none;backdrop-filter:none;padding:40px 6px;max-width:440px}
+.h{font-family:'Italiana',serif;font-weight:400;font-size:32px;letter-spacing:.1em;text-transform:uppercase}
+.btn{border-radius:0;letter-spacing:.2em}.note,.cd div,.choice span,.f input:not([type]),.f textarea{border-radius:0}
+.tl time{font-family:'Italiana',serif;font-size:22px}
+.v,.big{font-family:'Italiana',serif}
+.sec{padding-bottom:6px}
